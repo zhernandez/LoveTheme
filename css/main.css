@@ -127,6 +127,8 @@ blockquote {
   color: #F3B29D;
   border-left: 5px solid #E8663C;
   margin: 2em; }
+  blockquote span {
+    margin-left: 1.5em; }
 
 .gal {
   margin-bottom: 0.3em; }
@@ -137,5 +139,9 @@ blockquote {
 .taggy h3 {
   color: #E8663C;
   text-transform: uppercase; }
+
+.fuu {
+  text-transform: uppercase;
+  color: #E8663C; }
 
 /*# sourceMappingURL=main.css.map */
