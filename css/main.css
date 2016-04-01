@@ -1,0 +1,141 @@
+* {
+  font-family: Oswald, sans-serif; }
+  * header li:hover {
+    color: #E8663C !important; }
+
+.cont-j {
+  margin-left: 15%;
+  margin-right: 15%; }
+
+.titu h1 {
+  color: #E8663C !important; }
+  .titu h1 span {
+    color: #F3B29D !important; }
+
+h2 {
+  color: #E8663C; }
+
+i {
+  color: #E8663C; }
+
+.tii {
+  padding: 0.3em;
+  margin-bottom: 1em;
+  margin-top: 2em; }
+
+.tul {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  font-size: 110%;
+  display: inline-block;
+  float: right; }
+
+.boton {
+  background: #E8663C;
+  color: #fff;
+  padding: 0.3em 0.5em;
+  text-transform: uppercase; }
+
+.blo {
+  margin-bottom: 2em; }
+
+.tri {
+  margin-bottom: 1em; }
+
+.ima {
+  border: solid 1px #ccc;
+  padding-left: 1em;
+  margin-right: -0.5em; }
+  .ima h3 {
+    font-size: 120%;
+    text-transform: uppercase;
+    color: #bbb; }
+  .ima h4 {
+    text-transform: uppercase;
+    color: #E8663C;
+    font-size: 90%; }
+
+.bor {
+  margin-top: 1em; }
+
+.barra {
+  background: url(../images/post_border_bg.png);
+  text-transform: uppercase;
+  color: #E8663C; }
+  .barra span {
+    background: #fff;
+    font-size: 90%;
+    padding-right: 0.5em; }
+
+.footer_area {
+  background: #F3B29D !important; }
+
+footer {
+  margin-top: 3em;
+  background: #F3B29D;
+  color: #fff; }
+
+.pie {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 1em;
+  background-color: #E8663C;
+  border-left: solid 10px #fff;
+  border-right: solid 10px #fff; }
+  .pie h2 {
+    color: #fff;
+    text-transform: uppercase; }
+  .pie ul {
+    list-style: none;
+    float: left; }
+    .pie ul li {
+      display: inline-block; }
+      .pie ul li .facebook img {
+        width: 30px; }
+      .pie ul li .feed img {
+        width: 30px; }
+      .pie ul li .vimeo img {
+        width: 30px; }
+
+.cont-z {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: -1.4em;
+  margin-bottom: -0.8em; }
+
+.nosotros {
+  margin-top: -1.4em;
+  padding-top: -1em;
+  margin-bottom: 3em;
+  background-color: #F3B29D; }
+  .nosotros div {
+    background-color: #E8663C; }
+  .nosotros h2 {
+    color: #fff;
+    text-transform: uppercase;
+    border-right: solid 10px #fff;
+    border-left: solid 10px #fff;
+    padding: 0.2em;
+    padding-bottom: 1em; }
+
+.aut {
+  padding: 0.5em;
+  border: solid 1px #ccc;
+  margin-bottom: 1em; }
+
+blockquote {
+  color: #F3B29D;
+  border-left: 5px solid #E8663C;
+  margin: 2em; }
+
+.gal {
+  margin-bottom: 0.3em; }
+
+.taggy h4 {
+  color: #E8663C;
+  text-transform: uppercase; }
+.taggy h3 {
+  color: #E8663C;
+  text-transform: uppercase; }
+
+/*# sourceMappingURL=main.css.map */
